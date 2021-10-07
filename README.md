@@ -2,7 +2,7 @@
 - 👀 I love discovering data-driven insights and crafting compelling data-narratives!
 
 - 🌱 I’m a recent Penn undergraduate currently working towards
-    1. my Graduate level certificate from Penn Engineering's Data Program
+    1. my Graduate level certificate from Penn Engineering+LPS's Data Program
         - Python
         - NoSQLs (PostreSQL, MongoDB, ETL)
         - Tableau
