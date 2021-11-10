@@ -2,7 +2,7 @@
 - 👀 I love discovering data-driven insights and crafting compelling data-narratives!
 - ♟️ One of my biggest hobbies is playing board games and video games the "right" way: leveraging data to train models and inform player decisions rather than rote trial-and-error!
 
-- 🌱 I’m a recent Penn undergraduate currently working towards my graduate-level certificate from Penn Engineering+LPS's Data Program
+- 🌱 I’m a recent Penn undergraduate currently working towards my certificate from Penn Engineering+LPS's Data Program
     - Python, Web APIs
     - Postgres, MongoDB, Tableau
     - Hadoop (big data)
