@@ -23,8 +23,6 @@ I'm working towards enabling my data science dreams through a number of formal a
 
 ## Contact Me
 Want to chat about data? Message me!
-
-   - cdenq@sas.upenn.edu
     
    - christopherdenq@gmail.com
    
