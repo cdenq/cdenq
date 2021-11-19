@@ -19,7 +19,7 @@ I'm working towards enabling my data science dreams through a number of formal a
 
 - 🌱 [Self-Guided Course] Amazon AWS Courses | Machine Learning for Business Challenges
 
-- 📘 [Self-Guided Learning] __Statistical Learning, An Introduction to__ by James, Witten, Hastie, Tibshirani
+- 📘 [Self-Guided Learning] An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani
 
 ## Contact Me
 Want to chat about data? Message me!
