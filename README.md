@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Chris, or @cdenq
-- 👀 I love discovering data-driven insights and crafting compelling data-narratives!
-- ♟️ One of my biggest hobbies is playing board games and video games the "right" way: leveraging data to train models and inform player decisions rather than rote trial-and-error!
-
-- 🌱 I’m a recent Penn undergraduate currently working towards my certificate from Penn Engineering+LPS's Data Program
+- 👋 Hi! I’m Chris, or @cdenq.
+- 
+- 👀 I really love problem-solving as a sport!
+- 
+- ♟️ Anything from math to machine learning, from riddles to escape rooms--it's all just applied pattern-recognition or problem solving. 
+-
+- 😊 Data science is something that deeply fasnscinates me because it takes this problem solving to such a challenging (and fun!) level. 
+- 
+- 🌱 I’m a recent Penn undergraduate currently working towards my certificate from Penn Engineering/LPS's Data Program
     - Python, Web APIs
     - Postgres, MongoDB, Tableau
     - Hadoop (big data)
