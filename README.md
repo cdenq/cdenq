@@ -6,22 +6,31 @@ I’m Chris, and I'm majorly passionate about **data science**!
 
 Why? Because I'm deeply fascinated with the study of patterns, particulary in service of problem-solving!
 
-I love anything from math (number patterns) to machine learning (modeling patterns), from Catan (resource patterns) to escape rooms (puzzle patterns). At the core of this fascination sits data science, one of the coolest domains through which applied pattern-recognition leads to forecasting, insights, and really neat narratives!
+To me, data science is one of most direct (and fun) domains through which I can use applied pattern-recognition to create meaningful, real-world impact. "Impact through value contribution" is my 'name of the game'. 🌎
 
 ## Currently
-I'm working towards enabling my data science dreams through a number of formal and self-guided learning experiences:
 
-- 🧪 [Winter Internship] California State University: Northridge | Machine Learning Assistant Researcher
+I'm a recent Penn graduate with a background in business analytics from Wharton and art speciality from CAS. Due to the rigidty of my dual-program, I was unable to shape my curriculum to match data science properly. As such, after finishing my Bachelors, I immediately went back to Penn for a more concentrated approach at my data science dreams.
+
+These are some of the formal programs and self-guided learning experiences that I'm pursuing:
+
+- 🧪 [Winter Internship] California State University: Northridge | Machine Learning Assistant Researcher    
+    - current, Nov '21 to early Jan '22
 
 - 🎓 [Certification] Penn Engineering/LPS | certificate in Data Analysis and Visualization
+     - current, mid Sep '21 to mid Mar '22
 
 - 🌱 [Self-Guided Course] Harvard University @ edX | Data Analysis in Life Sciences program
-
-- 🌱 [Self-Guided Course] Amazon AWS Courses | Machine Learning for Business Challenges
+     - current, Oct '21 to early Jan '22
 
 - 📘 [Self-Guided Learning] An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani
+     - current, Nov '21 to March '22
+
+- ✔️ [Self-Guided Course] Amazon AWS Courses | Machine Learning for Business Challenges + Math for Machine Learning
+     - completed, Sep '21 to Nov '21
 
 ## Contact Me
+
 Want to chat about data? Message me!
     
    - christopherdenq@gmail.com
