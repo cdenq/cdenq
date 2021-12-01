@@ -4,9 +4,7 @@
 
 I’m Chris, and I'm majorly passionate about **data science**!
 
-Why? Because I'm deeply fascinated with the study of patterns, particulary in service of problem-solving!
-
-To me, data science is one of most direct (and fun) domains through which I can use applied pattern-recognition to create meaningful, real-world impact. "Impact through value contribution" is my 'name of the game'. 🌎
+Why? Because I'm deeply fascinated with the study of patterns, particulary in service of problem-solving! To me, data science is one of most direct (and fun) domains through which I can use applied pattern-recognition to create meaningful, real-world impact. 🌎
 
 ## Currently
 
