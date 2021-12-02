@@ -21,9 +21,6 @@ These are some of the formal programs and self-guided learning experiences that 
 - 🌱 [Self-Guided Course] Harvard University @ edX | Data Analysis in Life Sciences program
      - current, Oct '21 to early Jan '22
 
-- 📘 [Self-Guided Learning] An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani
-     - current, Nov '21 to Mar '22
-
 - ✔️ [Self-Guided Course] Amazon AWS Courses | Machine Learning for Business Challenges + Math for Machine Learning
      - completed, Sep '21 to Nov '21
 
