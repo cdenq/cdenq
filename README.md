@@ -15,7 +15,7 @@ These are some of the formal programs and self-guided learning experiences that 
 - 🧪 [Winter Internship] California State University: Northridge | Machine Learning Assistant Researcher    
     - current, Nov '21 to early Jan '22
 
-- 🎓 [Certification] Penn Engineering/LPS | certificate in Data Analysis and Visualization
+- 🎓 [Education] Penn Engineering/LPS | certificate in Data Analysis and Visualization
      - current, mid Sep '21 to mid Mar '22
 
 - 🌱 [Self-Guided Course] Harvard University @ edX | Data Analysis in Life Sciences program
