@@ -18,12 +18,6 @@ These are some of the formal programs and self-guided learning experiences that 
 - 🎓 [Education] Penn Engineering/LPS | certificate in Data Analysis and Visualization
      - current, mid Sep '21 to mid Mar '22
 
-- 🌱 [Self-Guided Course] Harvard University @ edX | Data Analysis in Life Sciences program
-     - current, Nov '21 to early Feb '22
-
-- ✔️ [Self-Guided Course] Amazon AWS Courses | Machine Learning for Business Challenges + Math for Machine Learning
-     - completed, Sep '21 to Nov '21
-
 ## Contact Me
 
 Want to chat about data? Message me!
