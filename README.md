@@ -19,10 +19,10 @@ These are some of the formal programs and self-guided learning experiences that 
     - [Education, certificate] Sep '21 to Mar '22
 
 - 🌱 Data Analysis for Life Sciences Program | Harvard University, edX
-    - [Education, audit] Nov '21 to early Jan '22
+    - [Education, audit] Nov '21 to Feb '22
 
 - 📘 Machine Learning for Predictive Data Analytics | by Kelleher, Namee, D'Arcy
-    - [Self-Study Graduate Textbook] Nov '21 to early Jan '22
+    - [Self-Study Graduate Textbook] Nov '21 to May '22
 
 ## Contact Me
 
