@@ -15,12 +15,14 @@ These are some of the formal programs and self-guided learning experiences that 
 - 🧪 Machine Learning Assistant Researcher | California State University: Northridge
     - [Winter Internship] Nov '21 to early Jan '22
 
-- 🎓 [Education] Penn Engineering/LPS | certificate in Data Analysis and Visualization
-     - current, mid Sep '21 to mid Mar '22
+- 🎓 Data Analysis and Visualization Program | University of Pennsylvania
+    - [Education, certificate] Sep '21 to Mar '22
 
-- 🌱 [Self-Guided Course] Harvard University, edX | auditing Data Analysis for Life Sciences
+- 🌱 Data Analysis for Life Sciences Program | Harvard University, edX
+    - [Education, audit] Nov '21 to early Jan '22
 
-- 📘 [Self-Guided Book] Machine Learning for Predictive Data Analytics |   
+- 📘 Machine Learning for Predictive Data Analytics | by Kelleher, Namee, D'Arcy
+    - [Self-Study Graduate Textbook] Nov '21 to early Jan '22
 
 ## Contact Me
 
