@@ -12,11 +12,15 @@ I'm a recent Penn graduate with a background in business analytics from Wharton 
 
 These are some of the formal programs and self-guided learning experiences that I'm pursuing:
 
-- 🧪 [Winter Internship] California State University: Northridge | Machine Learning Assistant Researcher    
-    - current, Nov '21 to early Jan '22
+- 🧪 Machine Learning Assistant Researcher | California State University: Northridge
+    - [Winter Internship] Nov '21 to early Jan '22
 
 - 🎓 [Education] Penn Engineering/LPS | certificate in Data Analysis and Visualization
      - current, mid Sep '21 to mid Mar '22
+
+- 🌱 [Self-Guided Course] Harvard University, edX | auditing Data Analysis for Life Sciences
+
+- 📘 [Self-Guided Book] Machine Learning for Predictive Data Analytics |   
 
 ## Contact Me
 
