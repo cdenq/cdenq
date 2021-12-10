@@ -27,7 +27,11 @@ These are some of the formal programs and self-guided learning experiences that 
 ## Contact Me
 
 Want to chat about data? Message me!
-    
-   - christopherdenq@gmail.com
+
+   - email: christopherdenq@gmail.com
+
+   - [personal website](https://cdenq.github.io/)
+
+   - [github](https://github.com/cdenq)
    
-   - https://www.linkedin.com/in/christopherdenq/
+   - [linkedin](https://www.linkedin.com/in/christopherdenq/)
