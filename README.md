@@ -18,8 +18,8 @@ These are some of the formal programs and self-guided learning experiences that 
 - 🎓 Data Analysis and Visualization Program | University of Pennsylvania
     - [Education, certificate] Sep '21 to Mar '22
 
-- 🌱 Data Analysis for Life Sciences Program | Harvard University, edX
-    - [Education, audit] Nov '21 to Feb '22
+- 🌱 Data Science Coding Program | IK.com
+    - [Education] Jan '22 to Mar '22
 
 - 📘 Machine Learning for Predictive Data Analytics | by Kelleher, Namee, D'Arcy
     - [Self-Study Graduate Textbook] Nov '21 to May '22
