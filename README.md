@@ -17,11 +17,11 @@ Want to chat about data? Message me!
 
 ## Directory
 
-A high-level folder directory of all the github repos associated with this account.
+A repo directory of all the github repos associated with this account. Certain links will be inactive if the project is currently underway or planned for the future!
 
 - __Penn Data Science Graduate Certificate Program__
     - Capstone Projects
-        - [Machine Learning: PENDING](#)
+        - [Machine Learning: _](#)
         - [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
         - [ETL: Cryptocurrency Data to SQL Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
         - [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
@@ -47,4 +47,33 @@ A high-level folder directory of all the github repos associated with this accou
         - [Financial and Election Programming](https://github.com/cdenq/financial-and-election-data-programming)
         - See `coding projects` for more back-end programming 
 
+- __Coding Projects__
+    - Coding Competitions / Events
+        - [Advent of Code 2022](https://github.com/cdenq/my-advent-of-code-2021-solves)
+    - Coding / Database Platforms
+        - [HackerRank](https://github.com/cdenq/my-hackerrank-solves)
+        - [LeetCode](https://github.com/cdenq/my-leetcode-solves)
+        - [SQLPad.io](https://github.com/cdenq/my-sqlpad-io-solves)
+    - Coding Miscellaneous
+        - [Google Foobar 2022](https://github.com/cdenq/my-google-foobar-solves)
 
+- __Passion Projects__
+    - Competition Submission / Freelance / Passion
+        - [Branding Analysis of Top Nonprofits (Ph.D Dissertation)](https://github.com/cdenq/branding-analysis-of-top-nonprofit-phd-dissertation)
+        - [Hotel Booking Platform Data Consulting](https://github.com/cdenq/hotel-booking-platform-data-consulting)
+        - [Video Game Performance Scraper and Web Dashboard](https://github.com/cdenq/video-game-performance-scraper-and-web-dashboard)
+        - [Python Tutoring in Tofu Coding Class](https://github.com/cdenq/tofu-coding-class)
+    - Blog-Related
+        - [Seasonality Analysis for Rental Savings](https://github.com/cdenq/seasonality-analysis-for-rental-savings)
+    - Personal / Fun
+        - [Personal Website Source Code](https://github.com/cdenq/cdenq.github.io)
+        - [Data Analysis on Self](https://github.com/cdenq/data-analysis-on-myself-p1)
+        - [Multi-Client Control Interface for Video Game](https://github.com/cdenq/videogame-multi-client-control-interface)
+        - [Boardgame Battle Predictor and Visualizer](https://github.com/cdenq/boardgame-battle-predictor-visualizer)
+    - Self-Learning
+        - [Data Structures and Algorithms](https://github.com/cdenq/my-ds-algo-repo)
+    - Miscellaneous / Utility
+        - [Simple VBA Recipe Book](https://github.com/cdenq/simple-vba-recipe-book)
+        - [Click-to-Copy Skeleton](https://github.com/cdenq/click-to-copy-skeleton)
+        - [Public Resume](https://github.com/cdenq/denq-resume)
+        - [Inca Digital KYC Report](https://github.com/cdenq/inca-digital-remittance-kyc-report)
