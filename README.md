@@ -11,7 +11,8 @@ I am leveling up my data science skills at Penn's Data Science program, graduati
 ## Contact Me
 
 Want to chat about data? Message me!
-   - email: cdenq@sas.upenn.edu / christopherdenq@gmail.com
+   - email: christopherdenq@gmail.com
+   - [personal website](https://cdenq.github.io/)
    - [github](https://github.com/cdenq)
    - [linkedin](https://www.linkedin.com/in/christopherdenq/)
 
