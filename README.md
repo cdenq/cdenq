@@ -22,7 +22,7 @@ A repo directory of all the github repos associated with this account. Certain l
 
 - __Penn Data Science Graduate Certificate Program__
     - Capstone Projects
-        - [Machine Learning: _](#)
+        - Public release in March 2022! [Machine Learning Capstone](#)
         - [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
         - [ETL: Cryptocurrency Data to SQL Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
         - [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
