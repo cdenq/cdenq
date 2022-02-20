@@ -66,6 +66,7 @@ A repo directory of all the github repos associated with this account. Certain l
         - [Python Tutoring in Tofu Coding Class](https://github.com/cdenq/tofu-coding-class)
     - Blog-Related
         - [Seasonality Analysis for Rental Savings](https://github.com/cdenq/seasonality-analysis-for-rental-savings)
+        - [Tax Bracket Visualizer](https://github.com/cdenq/tax-bracket-visualization)
     - Personal / Fun
         - [Personal Website Source Code](https://github.com/cdenq/cdenq.github.io)
         - [Data Analysis on Self](https://github.com/cdenq/data-analysis-on-myself-p1)
