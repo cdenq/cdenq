@@ -20,12 +20,12 @@ Want to chat about data? Message me!
 
 A repo directory of all the github repos associated with this account. Certain links will be inactive if the project is currently being worked on. 
 Legend: 
-❗ Capstone or Major Project
-🎓 Penn Data Science Program Project
-🏆 Competition, Application, or Event-Based Project
-💙 Passion Project
-🌐 Self-Learning Project
-📚 Mini-Blog Project, Open-Source Utility, and Other Miscellaneous 
+- ❗ Capstone or Major Project
+- 🎓 Penn Data Science Program Project
+- 🏆 Competition, Application, or Event-Based Project
+- 💙 Passion Project
+- 🌐 Self-Learning Project
+- 📚 Mini-Blog Project, Open-Source Utility, and Other Miscellaneous 
 
 - Featured
     - ❗🎓 Public release Mar 2022 (underway) [Machine Learning Capstone](#)
@@ -33,6 +33,7 @@ Legend:
     - ❗🎓 [ETL: Cryptocurrency Data to SQL Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
     - ❗🎓 [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
     - ❗🏆 Public release Mar 2022+ (underway) [Branding Analysis of Top Nonprofits (Ph.D Dissertation)](https://github.com/cdenq/branding-analysis-of-top-nonprofit-phd-dissertation)
+
 - Big Data, Cloud Computing, & Machine Learning
     - ❗🏆 Public release pending (sanitizing) [Hotel Booking Platform Data Consulting](https://github.com/cdenq/hotel-booking-platform-data-consulting)
     - 🎓 [Charity Funding Success Predictor](https://github.com/cdenq/charity-funding-success-predictor)
