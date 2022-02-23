@@ -19,13 +19,14 @@ Want to chat about data? Message me!
 ## Directory
 
 A repo directory of all the github repos associated with this account. Certain links will be inactive if the project is currently being worked on. 
-Legend: 
-- ❗ Capstone or Major Project
-- 🎓 Penn Data Science Program Project
-- 🏆 Competition, Application, or Event-Based Project
-- 💙 Passion Project
-- 🌐 Self-Learning Project
-- 📚 Mini-Blog Project, Open-Source Utility, and Other Miscellaneous 
+
+- Legend: 
+    - ❗ Capstone or Major Project
+    - 🎓 Penn Data Science Program Project
+    - 🏆 Competition, Application, or Event-Based Project
+    - 💙 Passion Project
+    - 🌐 Self-Learning Project
+    - 📚 Mini-Blog Project, Open-Source Utility, and Other Miscellaneous 
 
 - Featured
     - ❗🎓 Public release Mar 2022 (underway) [Machine Learning Capstone](#)
