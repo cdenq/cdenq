@@ -20,7 +20,7 @@ Want to chat about data? Message me!
 
 A repo directory of all the github repos associated with this account. Certain links will be inactive if the project is currently being worked on. 
 
-- Legend: 
+### Legend: 
     - ❗ Capstone or Major Project
     - 🎓 Penn Data Science Program Project
     - 🏆 Competition, Application, or Event-Based Project
