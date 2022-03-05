@@ -6,15 +6,9 @@ I’m Chris, and I'm majorly passionate about **data science**!
 
 Why? Because I'm deeply fascinated with the study of patterns, particulary in service of problem-solving! To me, data science is one of most direct (and fun) domains through which I can use applied pattern-recognition to create meaningful, real-world impact. 🌎
 
-I am leveling up my data science skills at Penn's Data Science program, graduating in March 2022. My undergraduate background is in business analytics and art speciality, also from Penn (C'21).
+I am studying data science at Penn's Data Science program, graduating in March 2022. My undergraduate background is in business analytics and art speciality, also from Penn (C'21).
 
-## Contact Me
-
-Want to chat about data? Message me!
-   - email: christopherdenq@gmail.com
-   - [personal website](https://cdenq.github.io/)
-   - [github](https://github.com/cdenq)
-   - [linkedin](https://www.linkedin.com/in/christopherdenq/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopherdenq@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherdenq/) [![website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cdenq.github.io/) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257)
 
 ## Directory
 
