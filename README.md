@@ -23,7 +23,7 @@ A repo directory of all the github repos associated with this account. Certain l
     - 📚 Mini-Blog Project, Open-Source Utility, and Other Miscellaneous 
 
 - Featured
-    - ❗🎓 Public release Mar 2022 (underway) [Machine Learning Capstone](#)
+    - ❗🎓 [Machine Learning Capstone](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
     - ❗🎓 [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
     - ❗🎓 [ETL: Cryptocurrency Data to SQL Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
     - ❗🎓 [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
