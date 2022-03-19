@@ -18,11 +18,11 @@ A repo directory of all the github repos associated with this account. Certain l
 
 ### Legend: 
     - ❗ Capstone or Major Project
-    - 🎓 Penn Data Science Program Project
-    - 🏆 Competition, Application, or Event-Based Project
-    - 💙 Passion Project
-    - 🌐 Self-Learning Project
-    - 📚 Mini-Blog Project, Open-Source Utility, and Other Miscellaneous 
+    - 🎓 Course-Related Project
+    - 🏆 Competition, Application, or Event-Related Project
+    - 💙 Passion Project for Impact
+    - 🌐 Curiousity Project for Learning
+    - 📚 Mini-Blog, Open-Source Utility, and Other Miscellaneous Project 
 
 - Featured
     - ❗🎓 [Machine Learning Capstone](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
