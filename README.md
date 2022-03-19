@@ -17,8 +17,8 @@ Feel free to reach out to me through any of my links!
 A repo directory of all the github repos associated with this account. Certain links will be inactive if the project is currently being worked on. 
 
 ### Legend: 
-    - 🌕 Capstone Project (3+ weeks)
-    - 🌗 Major Project (<3 weeks)
+    - 🌕 Capstone Project (2+ weeks)
+    - 🌗 Major Project (<2 weeks)
     - 🌑 Minor Project (<1 day)
     -----------------------------------------------------
     - 🏆 Competition, Freelance, or Event-Related Project
