@@ -28,14 +28,15 @@ A repo directory of all the github repos associated with this account. Certain l
 
 - Featured
     - 🌕💙 [Full-stack Machine Learning Dashboard: Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
-    - 🌗💙 [Deep Learning Charity Funding Success Predictor](https://github.com/cdenq/charity-funding-success-predictor)
     - 🌕💙 [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
     - 🌕💙 [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
     - 🌗💙 [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard) 
 
 - Big Data, Cloud Computing, & Machine Learning
+    - 🌑💙 [Deep Learning Charity Funding Success Predictor](https://github.com/cdenq/charity-funding-success-predictor)
     - 🌑💙 [Cryptocurrency Market Data Classification](https://github.com/cdenq/cryptocurrency-market-data-classification)
     - 🌑💙 [Loan High Risk Predictor](https://github.com/cdenq/loan-high-risk-predicter)
+    - 🌑💙 [AWS Shopper ETL and Analysis](https://github.com/cdenq/aws-cloud-etl-shopper-data-analysis)
 
 - Visualization & Analysis
     - 🌗💙 [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
@@ -48,11 +49,11 @@ A repo directory of all the github repos associated with this account. Certain l
 
 - Front-End: Dashboarding & Web Server Application Development
     - 🌕📚 [Personal Website Source Code](https://github.com/cdenq/cdenq.github.io)
-    - 🌗💙 [Natural Hazards Visualization on Interactive Web Dashboard](https://github.com/cdenq/natural-hazard-visualization-interactive-web-dashboard)
     - 🌗💙 [Bacteria Diversity Interactive Web Dashboard](https://github.com/cdenq/bacteria-diversity-interactive-web-dashboard)
     - 🌗💙 [Mars Data Scraper and Dashboard](https://github.com/cdenq/mars-data-scraper-and-dashboard)
-    - 🌑💙 [Weather Dashboard Development](https://github.com/cdenq/web-dashboard-on-weather-data) 
-    - 🌑💙 [Weather Station Data API Server Deployment](https://github.com/cdenq/weather-station-data-api-deployment)
+    - 🌗📚 [Natural Hazards Visualization on Interactive Web Dashboard](https://github.com/cdenq/natural-hazard-visualization-interactive-web-dashboard)
+    - 🌑📚 [Weather Dashboard Development](https://github.com/cdenq/web-dashboard-on-weather-data) 
+    - 🌑📚 [Weather Station Data API Server Deployment](https://github.com/cdenq/weather-station-data-api-deployment)
 
 - Back-End: Programming & Database Management
     - 🌕💙 [ETL: Cryptocurrency Data to SQL Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
@@ -66,6 +67,7 @@ A repo directory of all the github repos associated with this account. Certain l
 
 - Miscellaneous Domain
     - 🌕💻 [Data Structures and Algorithms](https://github.com/cdenq/my-ds-algo-repo)
+    - 🌕📚 [MIT Textbook on ML, Self-Study Notes](https://github.com/cdenq/my-machine-learning-mit-book-study)
     - 🌕📚 [Python Tutoring in Tofu Coding Class](https://github.com/cdenq/tofu-coding-class)
     - 🌑🏆 [Inca Digital KYC Report](https://github.com/cdenq/inca-digital-remittance-kyc-report)
     - 🌑📚 [Simple VBA Recipe Book](https://github.com/cdenq/simple-vba-recipe-book)
