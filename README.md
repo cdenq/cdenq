@@ -6,7 +6,7 @@ I’m Chris, and I'm majorly passionate about **data science**!
 
 Why? Because I'm deeply fascinated with the study of patterns, particulary in service of problem-solving! To me, data science is one of most direct (and fun) domains through which I can use applied pattern-recognition to create meaningful, real-world impact. 🌎 
 
-This GitHub documents my avid self-learning and serial project-building journey from scratch. It's been officially [6 months] since I learned my first line of code!
+This GitHub documents my avid self-directed and project-focused journey into data science.
 
 Feel free to reach out to me through any of my links!
 
