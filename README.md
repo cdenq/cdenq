@@ -2,15 +2,11 @@
 
 👋 Hi! 
 
-I’m Chris, and I'm majorly passionate about **data science**!
+My name is Christopher Denq, and I'm majorly passionate about using data and tech to solve problems. I am particularly interested in the intersection between scalable code and predictive analytics (aka. machine learning engineering), though most of my past technical experiences have separately been in full-stack development and data science.
 
-Why? Because I'm deeply fascinated with the study of patterns, particulary in service of problem-solving! To me, data science is one of most direct (and fun) domains through which I can use applied pattern-recognition to create meaningful, real-world impact. 🌎 
+Feel free to reach out to me through any of my links.
 
-This GitHub documents my avid self-directed and project-focused journey into data science.
-
-Feel free to reach out to me through any of my links!
-
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopherdenq@gmail.com) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherdenq/) [![website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cdenq.github.io/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopherdenq@gmail.com) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257) 
 
 ## Directory
 
