@@ -2,7 +2,11 @@
 
 👋 Hi! 
 
-My name is Christopher Denq, and I'm majorly passionate about using data and tech to solve problems. I am particularly interested in the intersection between scalable code and predictive analytics (aka. machine learning engineering), though most of my past technical experiences have separately been in full-stack development and data science.
+My name is Christopher Denq, and I'm majorly passionate about using data and tech to solve problems. I am particularly interested in the intersection between scalable code and predictive analytics (aka. machine learning engineering), and have ample experience within full-stack development and data science alike.
+
+I have a post-bacc certificate in Data Science and a BA in Philosophy and Art History from the University of Pennsylvania (LPS'22, C'21).
+
+Fun fact: before transitioning into tech, I interned heavily within the art specialty space (Christie's Auctions & Private Sales, Philadelphia Museum of Art). 
 
 Feel free to reach out to me through any of my links.
 
