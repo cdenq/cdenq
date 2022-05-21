@@ -50,11 +50,13 @@ A repo directory of all the github repos associated with this account. Certain l
     - 📚 [Weather Dashboard Development](https://github.com/cdenq/web-dashboard-on-weather-data) 
 
 - Back-End: Programming & Database Management
-    - 💻 [Foothill Repo](https://github.com/cdenq/my-foothill-college-repo)
-    - 💙 [ETL: Cryptocurrency Data to SQL Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
-    - 💙 [Employee SQL ERD Management](https://github.com/cdenq/employee-sql-erd-management)
+    - 🏆 [Foothill Business Innovation Challenge 2022 Submission](https://github.com/cdenq/foothill-business-innovation-challenge-2022)
     - 🏆 [Advent of Code 2022](https://github.com/cdenq/my-advent-of-code-2021-solves)
     - 🏆 [Google Foobar 2022](https://github.com/cdenq/my-google-foobar-solves)
+    - 💙 [ETL: Cryptocurrency Data to SQL Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
+    - 💙 [Employee SQL ERD Management](https://github.com/cdenq/employee-sql-erd-management)
+    - 💻 [Select Star SQL](https://github.com/cdenq/my-select-star-sql-repo)
+    - 💻 [Foothill Repo](https://github.com/cdenq/my-foothill-college-repo)
     - 💻 [HackerRank](https://github.com/cdenq/my-hackerrank-solves)
     - 💻 [LeetCode](https://github.com/cdenq/my-leetcode-solves)
     - 💻 [SQLPad.io](https://github.com/cdenq/my-sqlpad-io-solves)
@@ -65,10 +67,10 @@ A repo directory of all the github repos associated with this account. Certain l
     - 📚 [MIT Textbook on ML, Self-Study Notes](https://github.com/cdenq/my-machine-learning-mit-book-study)
     - 💙 [Python Tutoring in Tofu Coding Class](https://github.com/cdenq/tofu-coding-class)
     - 🏆 [Inca Digital KYC Report](https://github.com/cdenq/inca-digital-remittance-kyc-report)
-    - 💻 [Simple VBA Recipe Book](https://github.com/cdenq/simple-vba-recipe-book)
-    - 💻 [Click-to-Copy Skeleton](https://github.com/cdenq/click-to-copy-skeleton)
+    - 📚 [Simple VBA Recipe Book](https://github.com/cdenq/simple-vba-recipe-book)
+    - 📚 [Click-to-Copy Skeleton](https://github.com/cdenq/click-to-copy-skeleton)
     - 🌗 [Public Resume](https://github.com/cdenq/denq-resume)
-    - 💻 [Multi-Client Control Interface for Video Game](https://github.com/cdenq/videogame-multi-client-control-interface)
+    - 📚 [Multi-Client Control Interface for Video Game](https://github.com/cdenq/videogame-multi-client-control-interface)
 
 - Pending
     - 🏆 [Social Media Branding Analysis of Top Nonprofits](https://github.com/cdenq/branding-analysis-of-top-nonprofit-phd-dissertation) 
