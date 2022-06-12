@@ -8,13 +8,11 @@ I have a post-bacc certificate in Data Science and a BA in Philosophy and Art Hi
 
 Fun fact about me: I enjoy prototyping and playing board games! My favorite genre to design in is story-driven cooperative games, and my favorite to play is economy-and-combat driven strategy games (Kemet, Caverna, and Root).
 
-Feel free to reach out to me through any of my links!
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherdenq/) [![website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cdenq.github.io/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopherdenq@gmail.com) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257) 
+Feel free to reach out to me through any of my links at the bottom of the page!
 
 ## Directory
 
-A repo directory of all the github repos associated with this account. Click here for a [full list](https://github.com/cdenq/my-directory/blob/main/README.md).
+A repo directory of all the github repos associated with this account. Click here for a [full list](https://github.com/cdenq/my-directory).
 
 - ⭐ Featured Projects
     - 🧠 AI/ML
@@ -27,3 +25,6 @@ A repo directory of all the github repos associated with this account. Click her
     - 💻 Software Development
         - Back-end: [Meta Coding Repo](https://github.com/cdenq/my-meta-coding-repo)
         - Front-end: [Personal Website](https://cdenq.github.io/), [Source Code](https://github.com/cdenq/cdenq.github.io)
+
+## Connect
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherdenq/) [![website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cdenq.github.io/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopherdenq@gmail.com) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257) 
