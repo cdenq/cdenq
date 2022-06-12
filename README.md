@@ -2,7 +2,7 @@
 
 👋 Hi! 
 
-My name is Christopher Denq, and I'm majorly passionate about using data and tech to solve problems! I am particularly interested in the intersection between scalable code and predictive analytics (eg. machine learning engineering), and I have experience within full-stack development and data science alike. As an avid self-learner and serial project-builder, I am always looking to tackle tech-based challenges in effort to add value back into the world. 🌎 
+My name is Christopher Denq, and I'm majorly passionate about solving problems with tech! I am particularly interested in the intersection between scalable code and predictive analytics (eg. machine learning engineering), and I have experience within **full-stack development** and **data science** alike. As an avid self-learner and serial project-builder, I am always looking to tackle tech-based challenges in effort to add value back into the world. 🌎 
 
 I have a post-bacc certificate in Data Science and a BA in Philosophy and Art History from the University of Pennsylvania (LPS'22, C'21). I am current taking college courses in mathematics and statistics in effort to better understand the underlying processes in machine learning.
 
@@ -27,4 +27,10 @@ A repo directory of all the github repos associated with this account. Click her
         - Front-end: [Personal Website](https://cdenq.github.io/), [Source Code](https://github.com/cdenq/cdenq.github.io)
 
 ## Connect
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherdenq/) [![website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cdenq.github.io/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopherdenq@gmail.com) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257) 
+<p align="center" width="100%">
+  <a href="https://www.linkedin.com/in/christopherdenq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/cdenq"><img src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://cdenq.github.io/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+  <a href="mailto:christopherdenq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://discordapp.com/users/122537517835616257"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</p>
