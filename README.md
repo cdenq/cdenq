@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi! 
+### Hello! 👋 
 
 My name is Christopher Denq, and I'm majorly passionate about solving problems with tech! I am particularly interested in the intersection between scalable code and predictive analytics (eg. machine learning engineering), and I have experience within **full-stack development** and **data science** alike. As an avid self-learner and serial project-builder, I am always looking to tackle tech-based challenges in effort to add value back into the world. 🌎 
 
@@ -10,7 +10,8 @@ Fun fact about me: I enjoy prototyping and playing board games! My favorite genr
 
 Feel free to reach out to me through any of my links at the bottom of the page!
 
-## Directory
+##
+### **Directory**
 
 A repo directory of all the github repos associated with this account. Click here for a [full list](https://github.com/cdenq/my-directory).
 
@@ -26,7 +27,7 @@ A repo directory of all the github repos associated with this account. Click her
         - Back-end: [Meta Coding Repo](https://github.com/cdenq/my-meta-coding-repo)
         - Front-end: [Personal Website](https://cdenq.github.io/), [Source Code](https://github.com/cdenq/cdenq.github.io)
 
-## Connect
+##
 <p align="center" width="100%">
   <a href="https://www.linkedin.com/in/christopherdenq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/cdenq"><img src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white"></a>
