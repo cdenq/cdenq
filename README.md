@@ -4,7 +4,7 @@
 
 My name is Christopher Denq, and I'm majorly passionate about using data and tech to solve problems! I am particularly interested in the intersection between scalable code and predictive analytics (eg. machine learning engineering), and I have experience within full-stack development and data science alike. As an avid self-learner and serial project-builder, I am always looking to tackle tech-based challenges in effort to add value back into the world. 🌎 
 
-I have a post-bacc certificate in Data Science and a BA in Philosophy and Art History from the University of Pennsylvania (LPS'22, C'21). I am current taking college courses in mathematics and statistics in effort to better holistically understand machine learning processes.
+I have a post-bacc certificate in Data Science and a BA in Philosophy and Art History from the University of Pennsylvania (LPS'22, C'21). I am current taking college courses in mathematics and statistics in effort to better understand the underlying processes in machine learning.
 
 Fun fact about me: I enjoy prototyping and playing board games! My favorite genre to design in is story-driven cooperative games, and my favorite to play is economy-and-combat driven strategy games (Kemet, Caverna, and Root).
 
