@@ -16,11 +16,14 @@ Feel free to reach out to me through any of my links.
 
 A repo directory of all the github repos associated with this account. Click here for a [full list](https://github.com/cdenq/my-directory/blob/main/README.md).
 
-- Featured
-    - AI/ML: [Full-stack Machine Learning Dashboard: Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
-    - Full-stack Dashboard: [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
-    - Data Analysis [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
-    - Data Visualization: [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard)
-    - Full-stack Visualization: [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
-    - Back-end Coding [Meta Coding Repo](https://github.com/cdenq/my-meta-coding-repo)
-    - Front-end Coding [Personal Website](https://cdenq.github.io/) [Source Code](https://github.com/cdenq/cdenq.github.io)
+- Featured Projects
+    - AI/ML
+        - [Full-stack Machine Learning Dashboard: Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
+    - Data Science/Analytics
+        - [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
+        - [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
+        - [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard)
+        - [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
+    - Software Development
+        - Back-end Coding [Meta Coding Repo](https://github.com/cdenq/my-meta-coding-repo)
+        - Front-end Coding [Personal Website](https://cdenq.github.io/) [Source Code](https://github.com/cdenq/cdenq.github.io)
