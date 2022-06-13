@@ -19,60 +19,49 @@ My summer goals...
 <p align="center" width="100%">
     <table>
         <tr>
-            <th colspan="4"> Back-end </th>
-            <th> </th>
-            <th colspan="3"> Front-end </th>
-            <th> </th>
-            <th colspan="3"> Databases </th>
-            <th> </th>
-            <th colspan="3"> Miscellaneous </th>
-        </tr>
-        <tr>
-            <td> <img height="32" width="32" src="https://ico.now.sh/python/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/java/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/r/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/git/aaa"> </td>
-            <td> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/html5/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/css3/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/javascript/aaa"> </td>
-            <td> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/postgresql/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/mongodb/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/apachehive/aaa"> </td
-            <td> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/selenium/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/sqlite/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/visualstudiocode/aaa"> </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="6"> Machine Learning </th>
-            <th> </th>
+            <th colspan="4"> Machine Learning </th>
             <th colspan="4"> Data Viz </th>
-            <th> </th>
             <th colspan="6"> Cloud / DevOps </th>
         </tr>
         <tr>
             <td> <img height="32" width="32" src="https://ico.now.sh/tensorflow/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/keras/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/scikitlearn/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/scipy/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/numpy/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/apachehadoop/aaa"> </td>
-            <td> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/tableau/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/plotly/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/microsoftpowerpoint/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/microsoftexcel/aaa"> </td>
-            <td> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/flask/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/docker/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/github/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/microsoftazure/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/amazonaws/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/googlecloud/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/googlecolab/aaa"> </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="4"> Back-end </th>
+            <th colspan="3"> Front-end </th>
+            <th colspan="3"> Databases </th>
+            <th colspan="4"> Miscellaneous </th>
+        </tr>
+        <tr>
+            <td> <img height="32" width="32" src="https://ico.now.sh/python/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/java/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/r/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/git/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/html5/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/css3/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/javascript/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/postgresql/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/mongodb/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/apachehive/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/github/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/selenium/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/sqlite/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/latex/aaa"> </td>
         </tr>
     </table>
 </p>
