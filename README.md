@@ -1,5 +1,4 @@
 # Hello! 😄 
-
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://cdenq.github.io/)
 
 My name is Christopher Denq, and I'm majorly passionate about solving problems with tech! I am particularly interested in the intersection between scalable code and predictive analytics (eg. machine learning engineering), and I have experience within **full-stack development** and **data science** alike. As an avid self-learner and serial project-builder, I am always looking to tackle tech-based challenges in effort to add value back into the world. 🌎 
