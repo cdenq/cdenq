@@ -15,7 +15,7 @@ My summer goals...
 - 🎨 finally see Magritte's [_La condition humaine_](https://www.rene-magritte.com/The%20Human%20Condition%20Rene%20Magritte.jpg?ezimgfmt=rs:400x515/rscb2/ng:webp/ngcb2) in person @ the National Gallery of Art in DC 
 
 ##
-###🛠️ **Tools** 
+### 🛠️ **Tools** 
 <p align="center" width="100%">
     <table>
         <tr>
@@ -67,17 +67,17 @@ My summer goals...
 </p>
 
 ##
-###⭐ **Featured Projects**
+### ⭐ **Featured Projects**
 
 [![Full Directory](https://img.shields.io/badge/Comprehensive-Directory-blue?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-directory) [![Pending Directory](https://img.shields.io/badge/Pending-Links-red?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-other-directory)
-- 🧠 AI/ML
-    - [Full-stack Machine Learning Dashboard: Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
-- 🔍 Data Science/Analytics
-    - [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
-    - [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
-    - [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard)
-    - [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
-- 💻 Software Development
+- 🧠 **AI/ML**
+    - Fullstack Web-app: [Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
+- 🔍 **Data Science/Analytics**
+    - Fullstack Web-dashboard: [Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
+    - Tableau Dashboard: [Bike Sharing Story](https://github.com/cdenq/bike-sharing-tableau-dashboard)
+    - Web Visualization: [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
+    - EDA: [Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
+- 💻 **Software Development**
     - Back-end: [Meta Coding Repo](https://github.com/cdenq/my-meta-coding-repo)
     - Front-end: [Personal Website](https://cdenq.github.io/), [Source Code](https://github.com/cdenq/cdenq.github.io)
 
