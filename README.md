@@ -13,7 +13,7 @@ Feel free to reach out to me through any of my links at the bottom of the page!
 ##
 ### **Directory**
 
-A repo directory of all the github repos associated with this account. Click here for a [full list](https://github.com/cdenq/my-directory).
+A repo directory of all the github repos associated with this account. Click here for a public [full list](https://github.com/cdenq/my-directory) and here for a private [internal list](https://github.com/cdenq/my-other-directory) (maintenance purposes).
 
 - ⭐ Featured Projects
     - 🧠 AI/ML
