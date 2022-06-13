@@ -1,30 +1,97 @@
-# Hello! 😄 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://cdenq.github.io/)
+# Hello! 😄 [![Website](https://img.shields.io/badge/My-Website-blue?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
 
-My name is Christopher Denq, and I'm majorly passionate about solving problems with tech! I am particularly interested in the intersection between scalable code and predictive analytics (eg. machine learning engineering), and I have experience within **full-stack development** and **data science** alike. As an avid self-learner and serial project-builder, I am always looking to tackle tech-based challenges in effort to add value back into the world. 🌎 
+### I'm passionate about writing scalable code to help others.
 
-I have a post-bacc certificate in Data Science and a BA in Philosophy and Art History from the University of Pennsylvania (LPS'22, C'21). I am current taking college courses in mathematics and statistics in effort to better understand the underlying processes in machine learning.
+As philosophy and art history major turned software developer and data scientist, I am extremely interested in mobilizing my career in software, data, and machine learning towards add as much value back into my community and the world at large. 🌎
 
-Fun fact about me: I enjoy prototyping and playing board games! My favorite genre to design in is story-driven cooperative games, and my favorite to play is economy-and-combat driven strategy games (Kemet, Caverna, and Root).
+I'm currently...
+- 🌱 Self-teaching algos/DS
+- 🎓 Helping others learn Python and ML (tutoring & TA role) 
+- 💼 Interning @ PNC as a data analyst
 
-Feel free to reach out to me through any of my links at the bottom of the page!
+My summer goals...
+- 🌄 create at least 2 impactful data solutions that will help PNC and my team thrive
+- 🏆 get a better mathematical understanding of algorithm runtimes
+- 🎨 finally see Magritte's [_La condition humaine_](https://www.rene-magritte.com/The%20Human%20Condition%20Rene%20Magritte.jpg?ezimgfmt=rs:400x515/rscb2/ng:webp/ngcb2) in person @ the National Gallery of Art in DC 
 
 ##
-### **Directory**
+### **Tools**
+<p align="center" width="100%">
+    <table>
+        <tr>
+            <th colspan="4"> Back-end </th>
+            <th> </th>
+            <th colspan="3"> Front-end </th>
+            <th> </th>
+            <th colspan="3"> Databases </th>
+            <th> </th>
+            <th colspan="3"> Miscellaneous </th>
+        </tr>
+        <tr>
+            <td> <img height="32" width="32" src="https://ico.now.sh/python/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/java/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/r/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/git/aaa"> </td>
+            <td> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/html5/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/css3/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/javascript/aaa"> </td>
+            <td> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/postgresql/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/mongodb/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/apachehive/aaa"> </td
+            <td> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/selenium/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/sqlite/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/visualstudiocode/aaa"> </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="6"> Machine Learning </th>
+            <th> </th>
+            <th colspan="4"> Data Viz </th>
+            <th> </th>
+            <th colspan="6"> Cloud / DevOps </th>
+        </tr>
+        <tr>
+            <td> <img height="32" width="32" src="https://ico.now.sh/tensorflow/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/keras/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/scikitlearn/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/scipy/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/numpy/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/apachehadoop/aaa"> </td>
+            <td> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/tableau/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/plotly/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/microsoftpowerpoint/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/microsoftexcel/aaa"> </td>
+            <td> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/flask/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/docker/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/github/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/microsoftazure/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/amazonaws/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/googlecloud/aaa"> </td>
+        </tr>
+    </table>
+</p>
 
-A repo directory of all the github repos associated with this account. Click here for a public [full list](https://github.com/cdenq/my-directory) and here for a private [internal list](https://github.com/cdenq/my-other-directory) (maintenance purposes).
+##
+### ⭐ **Featured Projects**
 
-- ⭐ Featured Projects
-    - 🧠 AI/ML
-        - [Full-stack Machine Learning Dashboard: Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
-    - 🔍 Data Science/Analytics
-        - [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
-        - [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
-        - [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard)
-        - [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
-    - 💻 Software Development
-        - Back-end: [Meta Coding Repo](https://github.com/cdenq/my-meta-coding-repo)
-        - Front-end: [Personal Website](https://cdenq.github.io/), [Source Code](https://github.com/cdenq/cdenq.github.io)
+[![Full Directory](https://img.shields.io/badge/Comprehensive-Directory-blue?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-directory) [![Pending Directory](https://img.shields.io/badge/Pending-Links-red?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-other-directory)
+- 🧠 AI/ML
+    - [Full-stack Machine Learning Dashboard: Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
+- 🔍 Data Science/Analytics
+    - [Full-stack Interactive Web Dashboard: Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
+    - [EDA: Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
+    - [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard)
+    - [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
+- 💻 Software Development
+    - Back-end: [Meta Coding Repo](https://github.com/cdenq/my-meta-coding-repo)
+    - Front-end: [Personal Website](https://cdenq.github.io/), [Source Code](https://github.com/cdenq/cdenq.github.io)
+
 
 ##
 <p align="center" width="100%">
