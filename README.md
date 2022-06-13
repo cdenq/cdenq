@@ -1,4 +1,4 @@
-# Hello! 👋 
+# Hello! 😄 
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://cdenq.github.io/)
 
