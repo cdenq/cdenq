@@ -1,6 +1,6 @@
 # Hello! 😄 [![Website](https://img.shields.io/badge/My-Website-blue?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
 
-### I'm passionate about writing scalable code to help others. 💻
+### 💻 I'm passionate about writing scalable code to help others.
 
 As philosophy and art history major turned software developer and data scientist, I am extremely interested in mobilizing my career in software, data, and machine learning towards add as much value back into my community and the world at large. 🌎
 
@@ -15,7 +15,7 @@ My summer goals...
 - 🎨 finally see Magritte's [_La condition humaine_](https://www.rene-magritte.com/The%20Human%20Condition%20Rene%20Magritte.jpg?ezimgfmt=rs:400x515/rscb2/ng:webp/ngcb2) in person @ the National Gallery of Art in DC 
 
 ##
-### **Tools** 🛠️
+###🛠️ **Tools** 
 <p align="center" width="100%">
     <table>
         <tr>
@@ -67,7 +67,7 @@ My summer goals...
 </p>
 
 ##
-### **Featured Projects** ⭐
+###⭐ **Featured Projects**
 
 [![Full Directory](https://img.shields.io/badge/Comprehensive-Directory-blue?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-directory) [![Pending Directory](https://img.shields.io/badge/Pending-Links-red?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-other-directory)
 - 🧠 AI/ML
