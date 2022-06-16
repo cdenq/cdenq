@@ -75,6 +75,8 @@ My summer goals...
     - Tableau Dashboard: [Bike Sharing Story](https://github.com/cdenq/bike-sharing-tableau-dashboard)
     - Web Visualization: [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
     - EDA: [Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
+- 🥞 **Dev Ops / Cloud**
+    - Serverless Web-App: [Wild Rydes](https://github.com/cdenq/wild-rydes-server-less-web-app) 
 - 💻 **Software Development**
     - Back-end: [Meta Coding Repo](https://github.com/cdenq/my-meta-coding-repo)
     - Front-end: [Personal Website](https://cdenq.github.io/), [Source Code](https://github.com/cdenq/cdenq.github.io)
