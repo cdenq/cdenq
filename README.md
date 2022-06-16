@@ -19,7 +19,7 @@ My summer goals...
 <p align="center" width="100%">
     <table>
         <tr>
-            <th colspan="4"> Machine Learning </th>
+            <th colspan="3"> Machine Learning </th>
             <th colspan="4"> Data Viz </th>
             <th colspan="6"> DevOps / Cloud </th>
         </tr>
@@ -27,7 +27,7 @@ My summer goals...
             <td> <img height="32" width="32" src="https://ico.now.sh/tensorflow/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/keras/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/scikitlearn/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/apachehadoop/aaa"> </td>
+            
             <td> <img height="32" width="32" src="https://ico.now.sh/tableau/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/plotly/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/microsoftpowerpoint/aaa"> </td>
@@ -44,7 +44,7 @@ My summer goals...
         <tr>
             <th colspan="4"> Back-end </th>
             <th colspan="3"> Front-end </th>
-            <th colspan="3"> Databases </th>
+            <th colspan="4"> Databases </th>
             <th colspan="4"> Miscellaneous </th>
         </tr>
         <tr>
@@ -57,6 +57,7 @@ My summer goals...
             <td> <img height="32" width="32" src="https://ico.now.sh/javascript/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/postgresql/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/mongodb/aaa"> </td>
+            <td> <img height="32" width="32" src="https://ico.now.sh/apachehadoop/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/apachehive/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/github/aaa"> </td>
             <td> <img height="32" width="32" src="https://ico.now.sh/selenium/aaa"> </td>
