@@ -2,7 +2,7 @@
 
 ### 💻 I'm passionate about writing scalable code to help others.
 
-As philosophy and art history major turned software developer and data scientist, I am extremely interested in mobilizing my career in software, data, and machine learning towards add as much value back into my community and the world at large. 🌎
+As philosophy and art history major turned software developer and data scientist, I am extremely interested in mobilizing my career in software, data, and machine learning towards social impact. I am keen about adding as much value back into my community and the world at large. 🌎
 
 I'm currently...
 - 🌱 Self-teaching algos/DS
