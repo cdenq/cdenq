@@ -21,7 +21,7 @@ My summer goals...
         <tr>
             <th colspan="4"> Machine Learning </th>
             <th colspan="4"> Data Viz </th>
-            <th colspan="6"> Cloud / DevOps </th>
+            <th colspan="6"> DevOps / Cloud </th>
         </tr>
         <tr>
             <td> <img height="32" width="32" src="https://ico.now.sh/tensorflow/aaa"> </td>
