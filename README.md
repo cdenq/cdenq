@@ -5,7 +5,7 @@
 As philosophy and art history major turned software developer and data scientist, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎
 
 I'm currently...
-- 🌱 Self-teaching algos/DS
+- 🌱 Self-teaching the mathematics behind machine learning (Linear Algebra, Discrete Mathematics)
 - 🎓 Helping others learn Python and ML (tutoring & TA role) 
 - 💼 Interning @ PNC as a data analyst
 
