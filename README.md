@@ -4,6 +4,8 @@
 
 As a mathematics and philosphy major turned software developer and data scientist, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎
 
+I am an avid self-learner and serial project builder. Please see my projects below as examples of my work!
+
 ##
 ### ⭐ **Featured Projects**
 
