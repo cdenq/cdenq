@@ -2,7 +2,7 @@
 
 ### 💻 I'm passionate about writing scalable code to help others.
 
-As philosophy and mathematics major turned software developer and data scientist, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎
+As a mathematics and philosphy major turned software developer and data scientist, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎
 
 ##
 ### ⭐ **Featured Projects**
