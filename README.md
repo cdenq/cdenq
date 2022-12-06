@@ -2,67 +2,7 @@
 
 ### 💻 I'm passionate about writing scalable code to help others.
 
-As philosophy and art history major turned software developer and data scientist, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎
-
-I'm currently...
-- 🌱 Self-teaching the mathematics behind machine learning (Linear Algebra, Discrete Mathematics)
-- 🎓 Helping others learn Python and ML (tutoring & TA role) 
-- 💼 Interning @ PNC as a data analyst
-
-My summer goals...
-- 🌄 create at least 2 impactful data solutions that will help PNC and my team thrive
-- 🏆 get a better mathematical understanding of algorithm runtimes
-- 🎨 finally see Magritte's [_La condition humaine_](https://www.rene-magritte.com/The%20Human%20Condition%20Rene%20Magritte.jpg?ezimgfmt=rs:400x515/rscb2/ng:webp/ngcb2) in person @ the National Gallery of Art in DC 
-
-##
-### 🛠️ **Tools** 
-<p align="center" width="100%">
-    <table>
-        <tr>
-            <th colspan="3"> Machine Learning </th>
-            <th colspan="4"> Data Viz </th>
-            <th colspan="6"> DevOps / Cloud </th>
-        </tr>
-        <tr>
-            <td> <img height="32" width="32" src="https://ico.now.sh/tensorflow/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/keras/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/scikitlearn/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/tableau/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/plotly/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/microsoftpowerpoint/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/microsoftexcel/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/flask/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/docker/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/microsoftazure/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/amazonaws/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/googlecloud/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/googlecolab/aaa"> </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4"> Back-end </th>
-            <th colspan="3"> Front-end </th>
-            <th colspan="4"> Databases </th>
-            <th colspan="4"> Miscellaneous </th>
-        </tr>
-        <tr>
-            <td> <img height="32" width="32" src="https://ico.now.sh/python/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/java/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/r/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/git/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/html5/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/css3/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/javascript/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/postgresql/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/mongodb/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/apachehadoop/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/apachehive/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/selenium/aaa"> </td>
-            <td> <img height="32" width="32" src="https://ico.now.sh/sqlite/aaa"> </td>
-        </tr>
-    </table>
-</p>
+As philosophy and mathematics major turned software developer and data scientist, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎
 
 ##
 ### ⭐ **Featured Projects**
