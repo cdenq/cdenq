@@ -1,8 +1,8 @@
 # Hello! 😄 [![Website](https://img.shields.io/badge/My-Website-blue?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
 
-### 💻 I'm passionate about writing scalable code to help others.
+### 💻 I'm passionate about data-driven insights and AI Safety!
 
-As a mathematics and philosphy major turned software developer and data scientist, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎
+As a data scientist who has recently learned about the importance of AI Safety, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎 I am particularly interested in AI technical research for policy makers, as I believe goverance is our best short-term solution.
 
 I am an avid self-learner and serial project builder. Please see my projects below as examples of my work!
 
