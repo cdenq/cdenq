@@ -1,12 +1,11 @@
 # Hello! 😄 [![Website](https://img.shields.io/badge/My-Website-blue?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
 
-### 💻 I'm passionate about data-driven insights and AI Safety!
+### 💻 I'm passionate about data-driven narratives!
 
-As a data scientist who has recently learned about the importance of AI Safety, I am extremely interested in mobilizing my career towards impact. I am keen about adding as much value back into my community and the world at large. 🌎 I am particularly interested in AI technical research for policy makers, as I believe goverance is our best short-term solution.
+As an art history and philosophy major, I have always been passionate about discovering insights among messy and intangible data. Over time, my industry experience in the art market led me to discover data science, of which I felt was a natural fit for my passions and skillsets. Pivoting towards a career in data science, I am heavily motivated towards directing my engineering skills at community and world impact! 🌎
 
 I am an avid self-learner and serial project builder. Please see my projects below as examples of my work!
 
-##
 ### ⭐ **Featured Projects**
 
 [![Full Directory](https://img.shields.io/badge/Comprehensive-Directory-blue?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-directory) [![Pending Directory](https://img.shields.io/badge/Pending-Links-red?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-other-directory)
