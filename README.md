@@ -8,7 +8,6 @@ I am an avid self-learner and serial project builder. Please see my projects bel
 
 ### ⭐ **Featured Projects**
 
-[![Full Directory](https://img.shields.io/badge/Comprehensive-Directory-blue?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-directory) [![Pending Directory](https://img.shields.io/badge/Pending-Links-red?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-other-directory)
 - 🧠 **AI/ML**
     - Fullstack Web-app: [Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor)
 - 🔍 **Data Science/Analytics**
