@@ -10,7 +10,7 @@ I am an avid self-learner and serial project builder. Please see my projects bel
 
 [![Full Directory](https://img.shields.io/badge/Comprehensive-Directory-blue?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-directory) [![Pending Directory](https://img.shields.io/badge/Pending-Links-red?style=flat-square&logo=appveyor)](https://github.com/cdenq/my-other-directory)
 - 🧠 **AI/ML**
-    - Fullstack Web-app: [Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
+    - Fullstack Web-app: [Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor)
 - 🔍 **Data Science/Analytics**
     - Fullstack Web-dashboard: [Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
     - Tableau Dashboard: [Bike Sharing Story](https://github.com/cdenq/bike-sharing-tableau-dashboard)
