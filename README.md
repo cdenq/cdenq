@@ -1,12 +1,12 @@
 # Hello! 😄 [![Website](https://img.shields.io/badge/My-Website-blue?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
 
-### 💻 I'm passionate about data-driven narratives!
+### 💻 I am an avid self-learner, data science/AI safety enthusiast, and boardgame nerd.
 
 As an art history and philosophy major, I have always been passionate about discovering insights among messy data and ambiguous business problems. I pursued this passion as a painting specialist in the art market, where-in I was challenged daily with converting artistic data into quantitative business takeaways (eg. price evaluations).
 
-Over time, my art analytics eventually led me to discover data science and machine learning, domains which offered tools more robust than any I was using in the art world. Instantly falling in love, I ultimately pivoted towards data science to pursue my original passion more fully. As such, I am heavily motivated by data science as a means of improving my community and world impact! 🌎
+Over time, my art analytics eventually led me to discover data science and machine learning, domains which offered tools more robust than any I was using in the art world. Instantly falling in love, I ultimately pivoted towards data science to pursue my original passion more fully. Using my passion for data-narratives, I hope to continue to contribute to community and world impact! 🌎
 
-I am an avid self-learner and serial project builder. Please see my projects below as examples of my work!
+Please see my projects below as examples of my work!
 
 ### ⭐ **Featured Projects**
 
