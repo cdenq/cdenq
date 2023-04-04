@@ -2,7 +2,9 @@
 
 ### 💻 I'm passionate about data-driven narratives!
 
-As an art history and philosophy major, I have always been passionate about discovering insights among messy and intangible data. Over time, my industry experience in the art market had led me to discover data science, a domain that was a natural fit for my passions and skillsets. Pivoting towards a career in data science, I am heavily motivated towards directing my engineering skills at community and world impact! 🌎
+As an art history and philosophy major, I have always been passionate about discovering insights among messy data and ambiguous business problems. I pursued this passion as a painting specialist in the art market, where-in I was challenged daily with converting artistic data into quantitative business takeaways (eg. price evaluations).
+
+Over time, my art analytics eventually led me to discover data science and machine learning, domains which offered tools more robust than any I was using in the art world. Instantly falling in love, I ultimately pivoted towards a career in data science to pursue this technology as a means of refining my original passion. As such, I am heavily motivated by data science as a means of improving my community and world impact! 🌎
 
 I am an avid self-learner and serial project builder. Please see my projects below as examples of my work!
 
