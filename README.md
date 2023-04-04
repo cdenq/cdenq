@@ -1,6 +1,6 @@
 # Hello! 😄 [![Website](https://img.shields.io/badge/My-Website-blue?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
 
-### 💻 I am data science/AI safety, boardgame enthusiast, and avid self-learner.
+### 💻 I am a safety-conscious data scientist, boardgame enthusiast, and avid self-learner.
 
 As an art history and philosophy major, I have always been passionate about discovering insights among messy data and ambiguous business problems. I pursued this passion as a painting specialist in the art market, where-in I was challenged daily with converting artistic data into quantitative business takeaways (eg. price evaluations).
 
