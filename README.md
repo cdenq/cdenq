@@ -10,15 +10,15 @@
   
 ##
 
-Hello! I am a full-stack data scientist with interests in applied analytics, machine learning, and user safety. ([More about my work.]())
+Hello! I am a full-stack data scientist with interests in applied analytics, machine learning, and user safety.
 
 I'm most excited about opportunities to generate AI-positive world impact. 🌎🤖
   
-Beyond my industry and academic interests, I'm an avid self-learner and board game enthusiast. ([More about me.]())
+Beyond my industry and academic interests, I'm an avid self-learner and board game enthusiast. ([More about me.](https://cdenq.github.io/subroutes/about-me/interest.html))
   
 ## 
 
-### **Featured**
+### **Featured** ([Visual Portfolio](https://cdenq.github.io/index.html#link-projects))
 - ⭐ Streamlit CNN ML Web-App: [Deepfake Image Detector](https://github.com/cdenq/deepfake-image-detector)
 - ⭐ Full-stack ML Web-App: [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor)
 - ⭐ Full-stack Web-Dashboard: [Market Metrics on Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry) 
@@ -29,14 +29,8 @@ Beyond my industry and academic interests, I'm an avid self-learner and board ga
 - Python, EDA: [Tumor Growth on Mice Analysis](https://github.com/cdenq/tumor-growth-on-mice-analysis)
   
 ### **Links**
-- Visual Portfolio: [Personal Website](https://cdenq.github.io/)
 - Full Portfolio: [Repo Directory](https://github.com/cdenq/my-directory)
   
 ##
   
 NOTE: This GitHub is an audience-agonostic repo of only my personal projects. (I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!)
-  
-Audience-specific portfolios below:
-  - Industry ([data scientist]())
-  - Academia ([AI safety researcher]())
-  - Non-Profit ([disaster relief volunteer]())
