@@ -1,29 +1,42 @@
-# Hello! 😄 [![Website](https://img.shields.io/badge/My-Website-blue?style=flat-square&logo=appveyor)](https://cdenq.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=Christopher+Denq;Full-stack+Data+Scientist;AI+Safety+Researcher)](https://git.io/typing-svg)
 
-### 💻 I am a safety-conscious data scientist, avid self-learner, and boardgame enthusiast.
-
-As an art history and philosophy major, I have always been passionate about discovering insights among messy data and ambiguous business problems. I pursued this passion as a painting specialist in the art market, where-in I was challenged daily with converting artistic data into quantitative business takeaways (eg. price evaluations).
-
-Over time, my art analytics eventually led me to discover data science and machine learning, domains which offered tools more robust than any I was using in the art world. Instantly falling in love, I ultimately pivoted towards data science to pursue my original passion more fully. Using my passion for data-narratives, I hope to continue to contribute to community and world impact! 🌎
-
-Please see my projects below as examples of my work!
-
-### ⭐ **Featured Projects**
-- 🧠 Fullstack ML Web-App: [Mushroom Edibility Predictor](https://github.com/cdenq/mushroom-edibility-predictor)
-- 🔍 Data Analytics Report: [Titanic Relationship](https://github.com/cdenq/titanic-data-analysis)
-
-### ⭐ **Peripheral Projects**
-- 🥞 Serverless Web-App: [Wild Rydes](https://github.com/cdenq/wild-rydes-server-less-web-app) 
-- 🔍 Tableau Dashboard: [Bike Sharing Story](https://github.com/cdenq/bike-sharing-tableau-dashboard)
-- 🔍 Fullstack Web Dashboard: [Market Metrics on Video Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry)
-- 🔍 Backend Web Visualization: [Ideal Vacation by Weather Predictor](https://github.com/cdenq/ideal-vacation-by-weather-predictor)
-- 💻 Front-end: [Personal Website](https://cdenq.github.io/), [Source Code](https://github.com/cdenq/cdenq.github.io)
-
-##
-<p align="center" width="100%">
+<p align="left">
   <a href="https://www.linkedin.com/in/christopherdenq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/cdenq"><img src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="mailto:christopherdenq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://cdenq.github.io/"><img src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://discordapp.com/users/122537517835616257"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </p>
+  
+##
+
+Hello! I am a full-stack data scientist with interests in applied analytics, machine learning, and user safety. ([More about my work.]())
+
+I'm most excited about opportunities to generate AI-positive world impact. 🌎🤖
+  
+Beyond my industry and academic interests, I'm an avid self-learner and board game enthusiast. ([More about me.]())
+  
+## 
+
+### **Featured**
+- ⭐ Streamlit CNN ML Web-App: [Deepfake Image Detector](https://github.com/cdenq/deepfake-image-detector)
+- ⭐ Full-stack ML Web-App: [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor)
+- ⭐ Full-stack Web-Dashboard: [Market Metrics on Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry) 
+- Supervised ML, NLP: [Subreddit Differentiator](https://github.com/cdenq/subreddit-differentiator)
+- AWS Server-less Web-App: [Wild Rydes](https://github.com/cdenq/wild-rydes-server-less-web-app)
+- HTML/CSS/JS, Plotly: [Bacteria Diversity Dashboard](https://github.com/cdenq/bacteria-diversity-interactive-web-dashboard)
+- ETL/SQL Database: [Cryptocurrency Database](https://github.com/cdenq/etl-pipeline-on-crypto-data)
+- Python, EDA: [Tumor Growth on Mice Analysis](https://github.com/cdenq/tumor-growth-on-mice-analysis)
+  
+### **Links**
+- Visual Portfolio: [Personal Website](https://cdenq.github.io/)
+- Full Portfolio: [Repo Directory](https://github.com/cdenq/my-directory)
+  
+##
+  
+NOTE: This GitHub is an audience-agonostic repo of only my personal projects. (I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!)
+  
+Audience-specific portfolios below:
+  - Industry ([data scientist]())
+  - Academia ([AI safety researcher]())
+  - Non-Profit ([disaster relief volunteer]())
