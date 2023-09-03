@@ -33,4 +33,4 @@ Beyond my industry and academic interests, I'm an avid self-learner and board ga
   
 ##
   
-NOTE: This GitHub is an audience-agonostic repo of only my personal projects. (I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!)
+NOTE: This repo only contains personal projects. I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!
