@@ -30,6 +30,7 @@ Beyond my industry and academic interests, I'm an avid self-learner and board ga
   
 ### **Links**
 - Full Portfolio: [Repo Directory](https://github.com/cdenq/my-directory)
+- Calendly: [Coffee Chats](https://calendly.com/christopherkd/coffee-chats)
   
 ##
   
