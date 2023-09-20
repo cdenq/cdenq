@@ -30,8 +30,8 @@ Beyond my industry and academic interests, I'm an avid self-learner and board ga
   
 ### **Links**
 - Full Portfolio: [Repo Directory](https://github.com/cdenq/my-directory)
-- Calendly: [Coffee Chats](https://calendly.com/christopherkd/coffee-chats)
+- Public Resume: [LinkedIn](https://www.linkedin.com/in/christopherdenq)
   
 ##
   
-NOTE: This repo only contains personal projects. I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!
+NOTE: This repo represents projects made outside of work (which is a tiny subset). I'd love to talk about more recent projects in a [coffee chat](https://calendly.com/christopherkd/coffee-chats)!
