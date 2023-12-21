@@ -1,20 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=Christopher+Denq;Full-stack+Data+Scientist;AI+Safety+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&width=435&lines=Christopher+Denq;Full-stack+Data+Scientist;Mathematical+AI+Researcher;AI+Governance+Researcher)](https://git.io/typing-svg)
 
 <p align="left">
+  <a href="https://cdenq.github.io/"><img src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/christopherdenq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/cdenq"><img src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-  <a href="mailto:christopherdenq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://cdenq.github.io/"><img src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://discordapp.com/users/122537517835616257"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </p>
   
 ##
 
-Hello! I am a full-stack data scientist with interests in applied analytics, machine learning, and user safety.
+I am a full-stack data scientist with interests in machine learning and user safety. On the...
 
-I'm most excited about opportunities to generate AI-positive world impact. 🌎🤖
+- industry-side, I am excited about solving business challenges through machine learning (modeling, analytics, deployment)
+- research-side, I am interested in optimizing machine learning models (compute/data efficiency, sampling)
+- policy-side, I am interested in protecting users (privacy-invasion, bias, and abuse)
+
+Overall, I'm most excited about opportunities that rest at these intersections and are aimed at world-positive impact. 🌎🤖
   
-Beyond my industry and academic interests, I'm an avid self-learner and board game enthusiast. ([More about me.](https://cdenq.github.io/subroutes/about-me/interest.html))
+Beyond my industry and academic interests, I'm an avid self-learner and board game enthusiast.
   
 ## 
 
@@ -33,4 +36,9 @@ Beyond my industry and academic interests, I'm an avid self-learner and board ga
   
 ##
   
-NOTE: This GitHub is an audience-agonostic repo of only my personal projects. (I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!)
+This GitHub is audience-agonostic and supports all my profiles. For a specific audience-facing profile, see below.
+- For industry/private-sector: [Website](https://cdenq.github.io/subroutes/profile/data-science.html), [LinkedIn](https://www.linkedin.com/in/christopherdenq/), Resume*
+- For academia/R&D: [Website](https://cdenq.github.io/subroutes/profile/ai-tech-research.html), CV*
+- For policy/governance/public-sector: [Website](https://cdenq.github.io/subroutes/profile/ai-gov-research.html), Resume*
+
+*To avoid web-scrappers, my resumes/CV nor email are not publically available. If we do not have a previously established connection, please reach out via [LinkedIn](https://www.linkedin.com/in/christopherdenq/) or [Calendly](https://calendly.com/christopherkd/coffee-chats) for more information.
