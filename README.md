@@ -23,8 +23,8 @@ Beyond my industry and academic interests, I'm an avid self-learner and board ga
 
 ### **Featured** ([Visual Portfolio](https://cdenq.github.io/index.html#link-projects))
 - ⭐ Streamlit CNN ML Web-App: [Deepfake Image Detector](https://github.com/cdenq/deepfake-image-detector)
-- ⭐ Full-stack ML Web-App: [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor)
-- ⭐ Full-stack Web-Dashboard: [Market Metrics on Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry) 
+- Full-stack ML Web-App: [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor)
+- Full-stack Web-Dashboard: [Market Metrics on Game Industry](https://github.com/cdenq/web-dashboard-of-video-game-industry) 
 - Supervised ML, NLP: [Subreddit Differentiator](https://github.com/cdenq/subreddit-differentiator)
 - AWS Server-less Web-App: [Wild Rydes](https://github.com/cdenq/wild-rydes-server-less-web-app)
 - HTML/CSS/JS, Plotly: [Bacteria Diversity Dashboard](https://github.com/cdenq/bacteria-diversity-interactive-web-dashboard)
@@ -33,6 +33,7 @@ Beyond my industry and academic interests, I'm an avid self-learner and board ga
   
 ### **Links**
 - Full Portfolio: [Repo Directory](https://github.com/cdenq/my-directory)
+- Public Resume: [LinkedIn](https://www.linkedin.com/in/christopherdenq)
   
 ##
   
