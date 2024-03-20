@@ -7,11 +7,11 @@
 
 I am a full-stack data scientist with interests in machine learning (specifically NLP) and user safety.
 
-- On the industry-side, I am excited about solving business challenges with scaled AI.
-- On the research-side, I am interested in optimizing large-scale ML processes.
-- On the policy-side, I am committed to protecting users from AI misuse.
+- On the industry-side, I am excited about solving business challenges on-scale with automated AI technologies.
+- On the research-side, I am interested in training optimizing of large ML models.
+- On the policy-side, I am committed to protecting users from AI abuse/misuse.
   
-Beyond my professional and academic interests, I'm an avid fan of all things gamified problem-solving: board games, escape rooms, puzzles, riddles, murder mysteries. 
+Beyond my professional and academic interests, I'm an avid fan of all things gamified problem-solving: board games, escape rooms, puzzles, riddles, murder mysteries.
 
 See [Contact](#contact) for more information.
 
@@ -41,10 +41,10 @@ See [here](https://github.com/cdenq/my-directory) for a list of all my GitHub re
 ## Contact
 
 This GitHub is audience-agonostic and supports all my profiles. For a specific audience-facing profile, see below.
-- For industry/private-sector: [Website](https://cdenq.github.io/subroutes/profile/data-science.html), [LinkedIn](https://www.linkedin.com/in/christopherdenq/), Resume*
-- For academia/R&D: [Website](https://cdenq.github.io/subroutes/profile/ai-tech-research.html), CV*
-- For policy/governance/public-sector: [Website](https://cdenq.github.io/subroutes/profile/ai-gov-research.html), Resume*
+- For tech industry/private-sector: [Website](https://cdenq.github.io/subroutes/profile/data-science.html), [LinkedIn](https://www.linkedin.com/in/christopherdenq/), Industry Resume*
+- For academia/industry R&D: [Website](https://cdenq.github.io/subroutes/profile/ai-tech-research.html), [Google Scholar](https://scholar.google.com/citations?user=bA86Ug0AAAAJ&hl=en), Academic CV*
+- For policy/governance/public-sector: [Website](https://cdenq.github.io/subroutes/profile/ai-gov-research.html), Federal CV*
 
 *To avoid web-scrappers and data-harvesters, my resumes/CV and email are no longer publically available. If we do not have a previously established connection, let's connect via [LinkedIn](https://www.linkedin.com/in/christopherdenq/) or [Calendly](https://calendly.com/christopherkd/coffee-chats)!
 
-Last updated: 1/1/2024.
+Last updated: 3/20/2024.
