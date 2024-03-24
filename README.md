@@ -5,11 +5,14 @@
 [![GitHub](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/cdenq)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257)
 
-I am a full-stack data scientist with interests in machine learning (specifically NLP) and user safety.
-
-- On the industry-side, I am excited about solving business challenges on-scale with automated AI technologies.
-- On the research-side, I am interested in training optimizing of large ML models.
-- On the policy-side, I am committed to protecting users from AI abuse/misuse.
+I am a data scientist and AI researcher. I am passionate about solving business problems at-scale with automative AI technologies and committed to developing both internally and externally trustworthy AI to protect citizens (especially underprivileged groups). My specific interests include:
+- **Industry**: 
+    - **Data Science**: delivering responsive insights at-scale to inform stakeholders; developing ML models (NN, NLP) to power analytics and business growth
+- **Academia**: 
+    - **Machine Learning**: training optimization of large-scale ML models, particularly aimed at interpretability and memorizability
+    - **Law/Criminology**: AI/NLP-enhanced due process and mass adjudication
+- **Public Sector**:
+    - **Governance**: infohazards of large language models (LLMs) and associated risk management systems
   
 Beyond my professional and academic interests, I'm an avid fan of all things gamified problem-solving: board games, escape rooms, puzzles, riddles, murder mysteries.
 
@@ -47,4 +50,4 @@ This GitHub is audience-agonostic and supports all my profiles. For a specific a
 
 *To avoid web-scrappers and data-harvesters, my resumes/CV and email are no longer publically available. If we do not have a previously established connection, let's connect via [LinkedIn](https://www.linkedin.com/in/christopherdenq/) or [Calendly](https://calendly.com/christopherkd/coffee-chats)!
 
-Last updated: 3/20/2024.
+Last updated: 3/24/2024.
