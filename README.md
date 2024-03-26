@@ -26,8 +26,6 @@ See [Contact](#contact) for more information.
 | 09/2023 | [![Deepfake Image Detector](https://img.shields.io/badge/deepfake--image--detector-black?logo=github&logoColor=white)](https://github.com/cdenq/deepfake-image-detector) | Computer vision AI app that detects deepfake/manipulated images 
 | 05/2023 | [![Subreddit Differentiator](https://img.shields.io/badge/subreddit--differentiator-black?logo=github&logoColor=white)](https://github.com/cdenq/subreddit-differentiator) | ML model that classifies text posts between 2 subreddits 
 
-See [here](https://github.com/cdenq/my-directory) for a list of all my GitHub repos.
-
 ## Skills
 
 | 💻 **Category** | **Tech Stack**
