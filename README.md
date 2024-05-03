@@ -5,15 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/cdenq)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257)
 
-I am a data scientist and AI researcher. I am passionate about solving business problems at-scale with automative AI technologies and committed to developing both internally and externally trustworthy AI to protect citizens (especially underprivileged groups). My specific interests include:
-- **Applied Industry**: 
-    - **Data Science**: delivering ethical/unbiased insights at-scale to inform stakeholders; developing ML models (NN, NLP) to power analytics and business growth
-    - **Software Engineering (ML)**: full-stack (data sourcing to deployment to frontend UIX) engineering of ML models to automate business processess  
-- **Academia Research**: 
-    - **Machine Learning**: training optimization and interpretability of large-scale ML models
-    - **Law/Criminology**: AI/NLP-enhanced ethicality in due process and mass adjudication
-- **Federal Governance**:
-    - **Governnce Strategy**: infohazards of large language models (LLMs) and associated risk management systems (aimed at greater AI transparency)
+I am a data scientist and AI researcher. I am passionate about solving business problems at-scale with automative AI technologies and committed to developing both internally and externally trustworthy AI to protect citizens (especially underprivileged groups).
   
 Beyond my professional and academic interests, I'm an avid fan of all things gamified problem-solving: board games, escape rooms, puzzles, riddles, murder mysteries.
 
