@@ -6,10 +6,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257)
 
 I am a data scientist and AI researcher. I am passionate about solving business problems at-scale with automative AI technologies and committed to developing both internally and externally trustworthy AI to protect citizens (especially underprivileged groups).
-  
-Beyond my professional and academic interests, I'm an avid fan of all things gamified problem-solving: board games, escape rooms, puzzles, riddles, murder mysteries.
 
-See [Contact](#contact) for more information.
+Beyond my professional and academic interests, I'm an avid fan of all things gamified problem-solving: board games, escape rooms, speed puzzling, and murder mysteries. I'm also an open-source contributor to [AzerothCore](https://www.azerothcore.org/), specifically for custom mod content.
 
 ## Last Three Projects
 | **Release** | **Project** | **Brief**
@@ -31,13 +29,7 @@ See [Contact](#contact) for more information.
 
 ## Contact
 
-This GitHub is audience-agonostic and supports all my profiles. For a specific audience-facing profile, see below.
-- For private-sector tech: [Website](https://cdenq.github.io/subroutes/profile/data-science.html), [LinkedIn](https://www.linkedin.com/in/christopherdenq/), Tech Resume*
-- For public-sector tech: [Website](https://cdenq.github.io/subroutes/profile/data-science.html), [LinkedIn](https://www.linkedin.com/in/christopherdenq/), Federal CV*
-- For academia/R&D: [Website](https://cdenq.github.io/subroutes/profile/ai-tech-research.html), [Google Scholar](https://scholar.google.com/citations?user=bA86Ug0AAAAJ&hl=en), Academic CV*
-- For policy/law/philosophy: [Website](https://cdenq.github.io/subroutes/profile/ai-gov-research.html), Policy Resume*
+- [LinkedIn](https://www.linkedin.com/in/christopherdenq/)
+- [Calendly](https://calendly.com/christopherkd/coffee-chats)
 
-
-*To avoid web-scrappers and data-harvesters, my resumes/CV and email are no longer publically available. If we do not have a previously established connection, let's connect via [LinkedIn](https://www.linkedin.com/in/christopherdenq/) or [Calendly](https://calendly.com/christopherkd/coffee-chats)!
-
-Last updated: 3/25/2024.
+Last updated: 5/14/2024.
