@@ -5,9 +5,11 @@
 [![GitHub](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/cdenq)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/122537517835616257)
 
-I am a data scientist and AI researcher. I am passionate about solving business problems at-scale with automative AI technologies and committed to developing both internally and externally trustworthy AI to protect citizens (especially underprivileged groups).
+I am a data scientist and AI researcher. I am passionate about solving real-world problems at-scale, particularly those related to trustworthy and reliable AI.
 
 Beyond my professional and academic interests, I'm an avid fan of all things gamified problem-solving: board games, escape rooms, speed puzzling, and murder mysteries. I'm also an open-source contributor to [AzerothCore](https://www.azerothcore.org/), specifically for custom mod content.
+
+**Since 2024, my projects no longer fit within the context of a personal GitHub repo**. If you are a potential collaborator, employer, or otherwise and wish to see more updated samples of my work, please reach out via [LinkedIn](https://www.linkedin.com/in/christopherdenq/). 
 
 ## Last Three Projects
 | **Release** | **Project** | **Brief**
@@ -32,4 +34,4 @@ Beyond my professional and academic interests, I'm an avid fan of all things gam
 - [LinkedIn](https://www.linkedin.com/in/christopherdenq/)
 - [Calendly](https://calendly.com/christopherkd/coffee-chats)
 
-Last updated: 5/14/2024.
+Last updated: 9/19/2024.
