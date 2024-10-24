@@ -19,7 +19,7 @@ Please see [my GitHub lists](https://github.com/cdenq?tab=stars) for an organize
 
 | **Project** | **Brief**
 | - | - 
-| [![FDA Violation Predictor](https://img.shields.io/badge/pinns--applications-black?logo=github&logoColor=white)](https://github.com/cdenq/fda-food-violation-score-predictor) | Paper for PINNs application in prediction/neural network learning
+| [![FDA Violation Predictor](https://img.shields.io/badge/pinns--applications-black?logo=github&logoColor=white)](https://github.com/cdenq/hands-on-learning-PINNs) | Paper for PINNs application in prediction/neural network learning
 | [![Deepfake Image Detector](https://img.shields.io/badge/pinns--tutorial-black?logo=github&logoColor=white)](https://github.com/cdenq/pinns-teaching-uis) | Paper for PINNs introduction and setup
 | [![Subreddit Differentiator](https://img.shields.io/badge/nlp--visualizer-black?logo=github&logoColor=white)](https://github.com/cdenq/nlp-visualizer-image-demo) | NLP model that extracts and visualizes research topics from academic papers
 
