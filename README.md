@@ -19,12 +19,11 @@ Please see [my GitHub lists](https://github.com/cdenq?tab=stars) for an organize
 
 | **Project** | **Brief**
 | - | - 
-| [![FDA Violation Predictor](https://img.shields.io/badge/pinns--applications-black?logo=github&logoColor=white)](https://github.com/cdenq/hands-on-learning-PINNs) | Paper for PINNs application in prediction/neural network learning
-| [![Deepfake Image Detector](https://img.shields.io/badge/pinns--tutorial-black?logo=github&logoColor=white)](https://github.com/cdenq/pinns-teaching-uis) | Paper for PINNs introduction and setup
-| [![Subreddit Differentiator](https://img.shields.io/badge/nlp--visualizer-black?logo=github&logoColor=white)](https://github.com/cdenq/nlp-visualizer-image-demo) | NLP model that extracts and visualizes research topics from academic papers
+| [![PINNs Paper 2](https://img.shields.io/badge/hands--on--learning--pinns-black?logo=github&logoColor=white)](https://github.com/cdenq/hands-on-learning-PINNs) | Paper for PINNs application in prediction/neural network learning
+| [![PINNs Paper 1](https://img.shields.io/badge/pinns--teaching--uis-black?logo=github&logoColor=white)](https://github.com/cdenq/pinns-teaching-uis) | Paper for PINNs introduction and setup
+| [![DOD NLP Visualizer](https://img.shields.io/badge/nlp--visualizer--image--demo-black?logo=github&logoColor=white)](https://github.com/cdenq/nlp-visualizer-image-demo) | NLP model that extracts and visualizes research topics from academic papers
 
 ## Skills
-
 | 💻 **Category** | **Tech Stack**
 | - | -
 | Software Development |![Python-OOP](https://img.shields.io/badge/Python-OOP-gray?logo=python&logoColor=white&labelColor=blue) ![Python-Func](https://img.shields.io/badge/Python-Functional-gray?logo=python&logoColor=white&labelColor=blue) ![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-black?logoColor=white)
