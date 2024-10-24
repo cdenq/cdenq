@@ -7,13 +7,21 @@
 
 Please see [my GitHub lists](https://github.com/cdenq?tab=stars) for an organized view of my public repos.
 
-## Recent Projects Snapshot
+## Recent Personal Projects
 
 | **Project** | **Brief**
 | - | - 
 | [![FDA Violation Predictor](https://img.shields.io/badge/fda--violation--predictor-black?logo=github&logoColor=white)](https://github.com/cdenq/fda-food-violation-score-predictor) | Logistic regression model that predicts an establishment's likelihood of violation 
 | [![Deepfake Image Detector](https://img.shields.io/badge/deepfake--image--detector-black?logo=github&logoColor=white)](https://github.com/cdenq/deepfake-image-detector) | Computer vision AI app that detects deepfake/manipulated images 
 | [![Subreddit Differentiator](https://img.shields.io/badge/subreddit--differentiator-black?logo=github&logoColor=white)](https://github.com/cdenq/subreddit-differentiator) | ML model that classifies text posts between 2 subreddits 
+
+## Recent Research
+
+| **Project** | **Brief**
+| - | - 
+| [![FDA Violation Predictor](https://img.shields.io/badge/pinns--applications-black?logo=github&logoColor=white)](https://github.com/cdenq/fda-food-violation-score-predictor) | Paper for PINNs application in prediction/neural network learning
+| [![Deepfake Image Detector](https://img.shields.io/badge/pinns--tutorial-black?logo=github&logoColor=white)](https://github.com/cdenq/pinns-teaching-uis) | Paper for PINNs introduction and setup
+| [![Subreddit Differentiator](https://img.shields.io/badge/nlp--visualizer-black?logo=github&logoColor=white)](https://github.com/cdenq/nlp-visualizer-image-demo) | NLP model that extracts and visualizes research topics from academic papers
 
 ## Skills
 
@@ -36,4 +44,4 @@ For all other purposes, you can reach me below:
 ## Notes
 As of 12/2023, the bulk of my coding work no longer fits within the scope of this personal GitHub account. Please reach out (see `Contact`) for an updated snapshot of my work.
 
-Repo last updated: 10/21/2024.
+Repo last updated: 10/24/2024.
