@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&width=435&lines=Christopher+Denq;Data+Scientist;NLP+%26+Math+Researcher;AI+Policy+Researcher)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](https://cdenq.github.io/)
+<!-- [![Website](https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white)](https://cdenq.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cdenq/)
 [![GitHub](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/cdenq)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=bA86Ug0AAAAJ&hl=en&oi=ao)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=bA86Ug0AAAAJ&hl=en&oi=ao) -->
 
 Please see [my GitHub lists](https://github.com/cdenq?tab=stars) for an organized view of my public repos.
 
